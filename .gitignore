@@ -1,0 +1,10 @@
+bin
+obj
+
+*.suo
+*.user
+*.DotSettings
+
+/Source
+/Target
+
